@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MenuPrincipal</string>
+    <string name="menu_principal">Menu Principal</string>
+    <string name="desenvolvido_por_filipe_pinato">Desenvolvido por Filipe Pinato</string>
+</resources>
